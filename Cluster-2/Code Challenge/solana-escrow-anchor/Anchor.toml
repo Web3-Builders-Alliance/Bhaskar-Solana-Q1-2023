@@ -1,12 +1,12 @@
 [programs.localnet]
-solana_escrow_anchor = "ECh7FQHy1hDxkiYjPVi8tYhmZ2oHE1zJqsyxbP4vS3nd"
+solana_escrow_anchor = "2aSLZWUCoTMwxCkJYCR4VgS48bT3FngEYXqffXfbccwz"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
 cluster = "localnet"
-wallet = "/Users/pascal/.config/solana/id.json"
+wallet = "/home/bhaskarkh/.config/solana/id.json"
 
 [scripts]
 test = "yarn run ts-mocha -p ./tsconfig.json -t 1000000 tests/**/*.ts"

@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-deposit = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+deposit = "4w6FdDYH1uBrPh4DSY6xwU7rT85bDYeWrX9xRCCVaoLX"
 
 [registry]
 url = "https://api.apr.dev"
